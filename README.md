@@ -1,5 +1,5 @@
 # geometry.hpp
-yinshanhuiwork@163.com
+
 Provides header-only, generic C++ interfaces for geometry types, geometry collections, and features.
 
  - `mapbox::geometry::point`
