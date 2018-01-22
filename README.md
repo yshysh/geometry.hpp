@@ -11,7 +11,7 @@ Provides header-only, generic C++ interfaces for geometry types, geometry collec
  - `mapbox::geometry::geometry_collection`
  - `mapbox::geometry::feature` (experimental)
 
-### Design
+### Design 2
 
 test [GeoJSON](http://geojson.org/).
 
