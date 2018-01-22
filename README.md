@@ -28,7 +28,7 @@ They should also be a robust and high performance container for data processing 
  - Easily [adaptable to `boost::geometry`](http://www.boost.org/doc/libs/1_56_0/libs/geometry/doc/html/geometry/examples/example__adapting_a_legacy_geometry_object_model.html)
 
 
-### Usage
+### Usage 4
 
 Using a single type directly (requires no external dependencies):
 
